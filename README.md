@@ -1,5 +1,9 @@
 # Final-Project-Statistical-Modelling-with-Python
 
+## NOTES(PLEASE READ): 
+
+FOR /notebooks/joining_data.ipynb (For this file, please download it to VSC, It gave an error saying "UNABLE TO RENDER RICK DISPLAY" I worked on this issue with a mentor, she downloaded it to VSC, and it works fine. and she is unsure why github gives this error.)
+
 ## Project/Goals
 
 For this project,  it asked us to use three different APIs to get the separate database and join them by using a unique number; I used the station's ID to join the three tables together. For the city bikes, I picked Vancouver since I live here and am more familiar with the city. Later in this project, we need to use the join table to do EDA, data visualization and statistical modelling. 
